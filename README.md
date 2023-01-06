@@ -1,6 +1,6 @@
-- 👋 Hi, I’m asha
+- 👋 Hi, I’m Hashaqirul
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning science comp  
+- 🌱 I’m currently working at kodewave.sdn.bhd as Junior Software Engineer 
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me? email me hashaqirul@gmail.com
 
