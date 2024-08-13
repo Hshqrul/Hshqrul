@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hashaqirul
+- 👋 Hi, I’m Hashaqirul Hakimi
 - 👀 I’m interested in programming
 - 🌱 I’m currently working at kodewave.sdn.bhd as Software Engineer 
 - 💞️ I’m looking to collaborate on my project
